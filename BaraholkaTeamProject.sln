@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaraholkaTeamProject", "BaraholkaTeamProject\BaraholkaTeamProject.csproj", "{C6391020-44E8-4268-9E42-485C4CF70D1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaraholkaTeamProject", "BaraholkaTeamProject\BaraholkaTeamProject.csproj", "{C6391020-44E8-4268-9E42-485C4CF70D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaraholkaTeamProject.DAL", "BaraholkaTeamProject.DAL\BaraholkaTeamProject.DAL.csproj", "{7C1C5047-2625-402C-A94F-FD79B237B61F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C6391020-44E8-4268-9E42-485C4CF70D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6391020-44E8-4268-9E42-485C4CF70D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6391020-44E8-4268-9E42-485C4CF70D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1C5047-2625-402C-A94F-FD79B237B61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1C5047-2625-402C-A94F-FD79B237B61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1C5047-2625-402C-A94F-FD79B237B61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1C5047-2625-402C-A94F-FD79B237B61F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

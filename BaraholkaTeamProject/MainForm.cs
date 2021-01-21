@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BaraholkaTeamProject.DAL.ContextData;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,6 +11,7 @@ namespace BaraholkaTeamProject
 {
     public partial class MainForm : Form
     {
+        public MyContext context { get; set; }
         public MainForm()
         {
             InitializeComponent();
