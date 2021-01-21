@@ -18,5 +18,14 @@
 <ItemGroup>
   <ProjectReference Include="..\BaraholkaTeamProject.DAL\BaraholkaTeamProject.DAL.csproj" />
 </ItemGroup>
+	
+<ItemGroup>
+  <None Update="Images\seederImage1.jpg">
+    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+  </None>
+  <None Update="Images\seederImage2.jpg">
+    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+  </None>
+</ItemGroup>
 
 </Project>
