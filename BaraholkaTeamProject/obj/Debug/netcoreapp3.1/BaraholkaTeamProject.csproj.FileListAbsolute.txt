@@ -35,3 +35,5 @@ C:\Users\Denis\Desktop\TeamProject\BaraholkaTeamProject\BaraholkaTeamProject\obj
 C:\Users\Denis\Desktop\TeamProject\BaraholkaTeamProject\BaraholkaTeamProject\obj\Debug\netcoreapp3.1\BaraholkaTeamProject.dll
 C:\Users\Denis\Desktop\TeamProject\BaraholkaTeamProject\BaraholkaTeamProject\obj\Debug\netcoreapp3.1\BaraholkaTeamProject.pdb
 C:\Users\Denis\Desktop\TeamProject\BaraholkaTeamProject\BaraholkaTeamProject\obj\Debug\netcoreapp3.1\BaraholkaTeamProject.genruntimeconfig.cache
+C:\Users\Denis\Desktop\TeamProject\BaraholkaTeamProject\BaraholkaTeamProject\bin\Debug\netcoreapp3.1\BaraholkaTeamProject.DAL.dll
+C:\Users\Denis\Desktop\TeamProject\BaraholkaTeamProject\BaraholkaTeamProject\bin\Debug\netcoreapp3.1\BaraholkaTeamProject.DAL.pdb

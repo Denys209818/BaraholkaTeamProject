@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "BaraholkaTeamProject/1.0.0": {
         "dependencies": {
+          "BaraholkaTeamProject.DAL": "1.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "5.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL.Design": "1.1.0"
@@ -916,6 +917,15 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
+      },
+      "BaraholkaTeamProject.DAL/1.0.0": {
+        "dependencies": {
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "5.0.2",
+          "Npgsql.EntityFrameworkCore.PostgreSQL.Design": "1.1.0"
+        },
+        "runtime": {
+          "BaraholkaTeamProject.DAL.dll": {}
+        }
       }
     }
   },
@@ -1603,6 +1613,11 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "BaraholkaTeamProject.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

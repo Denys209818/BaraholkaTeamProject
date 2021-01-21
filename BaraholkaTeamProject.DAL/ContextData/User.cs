@@ -19,5 +19,6 @@ namespace BaraholkaTeamProject.DAL.ContextData
         public string Login { get; set; }
         [Required, StringLength(255,MinimumLength = 6)]
         public string Password { get; set; }
+        public byte[] Image { get; set; }
     }
 }
